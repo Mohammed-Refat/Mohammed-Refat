@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammed-Refat
-- 👀 I’m interested in SoftWare Engneer
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Mohamed Refat
+- 👀 I’m interested in software engineering and problem Solving
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
