@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mohamed Refat
-- I’m interested in software engineering and problem Solving
-- I’m currently learning at
-- language Skills C++, python, java, pl/Sql, Sql
-- How Reach me 
+- I am a junior software engineer, passionate to try new things.
+- 📚 Studying Computer Science at FCIS - ASU year 2.
+- 📌 Lives in Cairo, Egypt.
+-👨🏻‍💻 Languages and Skills:
+C++JavaPythonJavaScriptPHPHTML5CSS3AndroidFirebaseSQLGitGitHubVSCodeAndroidStudio
 
 
 <!---
