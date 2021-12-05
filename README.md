@@ -1,4 +1,4 @@
-- #👋 Hi, I’m Mohamed Refat
+- 👋 Hi, I’m Mohamed Refat
 - I’m interested in software engineering and problem Solving
 - I’m currently learning 
 - language Skills C++ python java pl/Sql Sql   
