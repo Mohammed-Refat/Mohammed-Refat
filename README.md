@@ -1,10 +1,10 @@
-#👋 Hi, I’m Mohamed Refat
+# 👋 Hi, I’m Mohamed Refat
 ## I am a junior software engineer, passionate to try new things.
 - 📚 Studying Computer Science at FCIS - ASU year 2.
 - 📌 Lives in Cairo, Egypt.
-- 👨🏻‍💻##Languages and Skills:-
-    C++ ,Python ,Java ,Sql ,plSql
-- How to reach me:-
+## 👨🏻‍💻Languages and Skills:-
+    C++ Java Python HTML5 CSS3 PlSql SQL GitGitHub VSCode
+- 📫 How to reach me:
 
 
 <!---
