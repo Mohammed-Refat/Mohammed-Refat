@@ -5,10 +5,10 @@
 - 👨🏻‍💻 Languages and Skills:-
     C++ ,Python ,Java ,Sql ,plSql
 -How to reach me:-
-Email 
-GitHub 
-Facebook  
-YouTube
+-Email 
+-GitHub 
+-Facebook  
+-YouTube
 
 <!---
 Mohammed-Refat/Mohammed-Refat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
