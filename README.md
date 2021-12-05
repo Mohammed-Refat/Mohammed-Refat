@@ -4,7 +4,7 @@
 - 📌 Lives in Cairo, Egypt.
 - 👨🏻‍💻 Languages and Skills:-
     C++ ,Python ,Java ,Sql ,plSql
--How to reach me:-
+- How to reach me:-
 -Email 
 -GitHub 
 -Facebook  
