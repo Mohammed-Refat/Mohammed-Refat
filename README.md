@@ -3,7 +3,8 @@
 - 📚 Studying Computer Science at FCIS - ASU year 2.
 - 📌 Lives in Cairo, Egypt.
 -👨🏻‍💻 Languages and Skills:
-C++JavaPythonJavaScriptPHPHTML5CSS3AndroidFirebaseSQLGitGitHubVSCodeAndroidStudio
+https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
+
 
 
 <!---
