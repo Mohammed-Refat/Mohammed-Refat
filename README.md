@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mohamed Refat
-- 👀 I’m interested in software engineering and problem Solving
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- #👋 Hi, I’m Mohamed Refat
+- I’m interested in software engineering and problem Solving
+- I’m currently learning 
+- language Skills C++ python java pl/Sql Sql   
+
 
 <!---
 Mohammed-Refat/Mohammed-Refat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
