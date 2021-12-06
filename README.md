@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mohamed Refat
 ### I am a junior software engineer, passionate to try new things.
-- 📚 Studying Computer Science at FCIS - ASU year 2.
+- Studying Computer Science at FCIS - ASU year 2.
 - I am interested in Problem Solving and Competitive Programming
-- 📌 Lives in Cairo, Egypt.
+- Lives in Cairo, Egypt.
 
 
 ### 👨🏻‍💻 Languages and Skills:
