@@ -20,7 +20,7 @@
 
 <br>
 
-### 📫 How to reach me:
+### 📫 How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br>
 <a href="mailto:hamadarefat29@gmail.com"><img src="https://camo.githubusercontent.com/c9a89a6426081483aa6cd371bdecae44045961437b349ea97097d476978436f4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" alt="Email" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/Mohammed-Refat"><img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="GitHub" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/mohamed-refat-270686201/"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" alt="GitHub" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width: 100%;"></a>
