@@ -6,7 +6,6 @@
 
 
 ### 👨🏻‍💻 Languages and Skills:
-<br>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" style="max-width: 100%;">
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" style="max-width: 100%;">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" style="max-width: 100%;">
