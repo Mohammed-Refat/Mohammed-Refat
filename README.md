@@ -5,7 +5,7 @@
   - Problem-solving enthusiast through Competitive Programming, honing analytical and algorithmic skills.
   - Embracing software solutions to address various needs.
   - Active participant in competitive programming contests on platforms like Codeforces, Atcoder, and Codechef.
-  - I currently reside in a city of Cairo, Egypt.
+  - I currently reside in Cairo, Egypt.
                     
 
                     
