@@ -9,14 +9,7 @@
                     <li>Location: I currently reside in the vibrant city of Cairo, Egypt.</li>
                     
 
-                    <p>My journey as a software engineer has been marked by continuous learning and constant exploration. I enjoy diving into the latest technologies and frameworks, always eager to expand my knowledge and skillset.</p>
-
-                    <p>Feel free to explore my portfolio, which showcases some of my projects, contributions, and achievements in the world of software engineering, competitive programming, and backend development. If you have any questions or would like to connect, don't hesitate to reach out.</p>
-
-                    <p>Let's build a better future through the power of code and creativity!</p>
-
-                    </ul>
-
+                    
 ### 👨🏻‍💻 Languages and Skills:
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" style="max-width: 100%;">
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" style="max-width: 100%;">
