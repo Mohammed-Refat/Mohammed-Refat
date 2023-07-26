@@ -1,12 +1,11 @@
 # 👋 Hi, I’m Mohamed Refat
-<h2>About Me:</h2>
-                    <ul>
-                    <li>Education: I am currently pursuing my Bachelor's degree in Computer Science at FCIS - Ain Shams University, and I am in my final year.</li>
-                    <li>Backend Development Enthusiast: At this stage of my journey, I am particularly focused on studying and mastering Backend Development. I find the architecture and logic behind server-side applications fascinating and enjoy building robust and scalable systems that power modern web applications and services.</li>
-                    <li>Problem-Solving Enthusiast: I have a keen interest in problem-solving and enjoy tackling challenges through Competitive Programming. It's not just a hobby; it has honed my analytical and algorithmic skills, making me a more effective problem solver in real-world projects as well.</li>
-                    <li>Embracing Software Solutions: I firmly believe that software can be the answer to a myriad of problems. I take pride in developing efficient and innovative software solutions that address various needs.</li>
-                    <li>Competitive Programming: When I am not working on real-world projects, you can find me participating in competitive programming contests on platforms like Codeforces, Atcoder, and Codechef. It's not only an opportunity for growth but also an immensely enjoyable experience.</li>
-                    <li>Location: I currently reside in the vibrant city of Cairo, Egypt.</li>
+# About Me
+  - Pursuing Bachelor's in Computer Science at FCIS - Ain Shams University, final year.
+  - Backend Development enthusiast with a passion for building robust and scalable systems.
+  - Problem-solving enthusiast through Competitive Programming, honing analytical and algorithmic skills.
+  - Embracing software solutions to address various needs.
+  - Active participant in competitive programming contests on platforms like Codeforces, Atcoder, and Codechef.
+  - Location: I currently reside in the vibrant city of Cairo, Egypt.
                     
 
                     
