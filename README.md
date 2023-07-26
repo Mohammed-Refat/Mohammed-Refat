@@ -1,8 +1,20 @@
 # 👋 Hi, I’m Mohamed Refat
-### I am a Senior software engineer, passionate to try new things.
-- Studying Computer Science at FCIS - ASU year 4.
-- I am interested in Problem Solving and Competitive Programming
-- Lives in Cairo, Egypt.
+<h2>About Me:</h2>
+                    <ul>
+                    <li>Education: I am currently pursuing my Bachelor's degree in Computer Science at FCIS - Ain Shams University, and I am in my final year.</li>
+                    <li>Backend Development Enthusiast: At this stage of my journey, I am particularly focused on studying and mastering Backend Development. I find the architecture and logic behind server-side applications fascinating and enjoy building robust and scalable systems that power modern web applications and services.</li>
+                    <li>Problem-Solving Enthusiast: I have a keen interest in problem-solving and enjoy tackling challenges through Competitive Programming. It's not just a hobby; it has honed my analytical and algorithmic skills, making me a more effective problem solver in real-world projects as well.</li>
+                    <li>Embracing Software Solutions: I firmly believe that software can be the answer to a myriad of problems. I take pride in developing efficient and innovative software solutions that address various needs.</li>
+                    <li>Competitive Programming: When I am not working on real-world projects, you can find me participating in competitive programming contests on platforms like Codeforces, Atcoder, and Codechef. It's not only an opportunity for growth but also an immensely enjoyable experience.</li>
+                    <li>Location: I currently reside in the vibrant city of Cairo, Egypt.</li>
+                    </ul>
+
+                    <p>My journey as a software engineer has been marked by continuous learning and constant exploration. I enjoy diving into the latest technologies and frameworks, always eager to expand my knowledge and skillset.</p>
+
+                    <p>Feel free to explore my portfolio, which showcases some of my projects, contributions, and achievements in the world of software engineering, competitive programming, and backend development. If you have any questions or would like to connect, don't hesitate to reach out.</p>
+
+                    <p>Let's build a better future through the power of code and creativity!</p>
+
 
 
 ### 👨🏻‍💻 Languages and Skills:
